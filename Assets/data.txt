@@ -1,0 +1,12 @@
+MovGauche=Q
+MovDroite=D
+RotGauche=A
+RotDroite=E
+MovBas=S
+DescInstante=Space
+PlacReserve=C
+MovHaut=Z
+HideGhost=False
+RetroScores=
+ClassiqueScores=
+BonusScores=
